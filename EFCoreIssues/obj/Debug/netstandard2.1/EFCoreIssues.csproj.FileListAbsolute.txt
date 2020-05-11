@@ -1,0 +1,8 @@
+C:\Users\dhf6644\Downloads\EFCoreIssuePlayground\EFCoreIssues\bin\Debug\netstandard2.1\EFCoreIssues.deps.json
+C:\Users\dhf6644\Downloads\EFCoreIssuePlayground\EFCoreIssues\bin\Debug\netstandard2.1\EFCoreIssues.dll
+C:\Users\dhf6644\Downloads\EFCoreIssuePlayground\EFCoreIssues\bin\Debug\netstandard2.1\EFCoreIssues.pdb
+C:\Users\dhf6644\Downloads\EFCoreIssuePlayground\EFCoreIssues\obj\Debug\netstandard2.1\EFCoreIssues.csproj.CoreCompileInputs.cache
+C:\Users\dhf6644\Downloads\EFCoreIssuePlayground\EFCoreIssues\obj\Debug\netstandard2.1\EFCoreIssues.AssemblyInfoInputs.cache
+C:\Users\dhf6644\Downloads\EFCoreIssuePlayground\EFCoreIssues\obj\Debug\netstandard2.1\EFCoreIssues.AssemblyInfo.cs
+C:\Users\dhf6644\Downloads\EFCoreIssuePlayground\EFCoreIssues\obj\Debug\netstandard2.1\EFCoreIssues.dll
+C:\Users\dhf6644\Downloads\EFCoreIssuePlayground\EFCoreIssues\obj\Debug\netstandard2.1\EFCoreIssues.pdb
